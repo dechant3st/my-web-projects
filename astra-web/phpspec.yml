@@ -1,0 +1,5 @@
+suites:
+    main:
+        namespace: Astra-Web
+        psr4_prefix: Astra-Web
+        src_path: app
